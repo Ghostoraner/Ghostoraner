@@ -1,5 +1,69 @@
 # Hi 👋, I'm GhostRunner  
 
+<div align="center">
+  <svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
+    
+    <!-- Визначення ефекту світіння (Neon Glow) -->
+    <defs>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <!-- Фоновий прямокутник (темний, щоб підкреслити неон) -->
+    <rect width="500" height="150" fill="#0d1117"/>
+
+    <!-- АНІМОВАНИЙ ТЕКСТ -->
+    <text x="50%" y="50%" 
+          font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+          font-size="60" 
+          font-weight="bold" 
+          text-anchor="middle" 
+          dominant-baseline="middle" 
+          fill="#00ffcc" 
+          filter="url(#glow)"
+          opacity="0">
+      
+      <!-- ВАШ НІКНЕЙМ (тут буде ваш текст) -->
+      GHOSTRUNNER
+      
+      <!-- Анімація появи (Fade In + Збільшення прозорості) -->
+      <animate attributeName="opacity" 
+               values="0;1" 
+               dur="1.5s" 
+               fill="freeze" 
+               begin="0s"/>
+               
+      <!-- Анімація легкого пульсування (опціонально) -->
+      <animate attributeName="fill" 
+               values="#00ffcc;#00ccff;#00ffcc" 
+               dur="3s" 
+               repeatCount="indefinite"
+               begin="1.5s"/>
+    </text>
+
+    <!-- Додатковий рядок тексту (маленький) -->
+    <text x="50%" y="80%" 
+          font-family="monospace" 
+          font-size="16" 
+          fill="#58a6ff" 
+          text-anchor="middle" 
+          opacity="0">
+      Welcome to my GitHub universe!
+      <animate attributeName="opacity" 
+               values="0;0.8" 
+               dur="2s" 
+               fill="freeze" 
+               begin="0.5s"/>
+    </text>
+    
+  </svg>
+</div>
+
 ### A passionate Full stack developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghostoraner&label=Profile views&color=0e75b6&style=flat" alt="Ghostoraner" /> </p>

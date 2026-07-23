@@ -1,6 +1,6 @@
 # Hi 👋, I'm GhostRunner
 
-### A passionate Python developer
+### A passionate Full stack developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghostoraner&label=Profile views&color=0e75b6&style=flat" alt="Ghostoraner" /> </p>
 

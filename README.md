@@ -6,6 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4995&pause=100&color=00FF00&width=435&lines=Code+is+like+humor;+When+you+have+to+explain+it;it's+bad.)](https://git.io/typing-svg)
 
+---
+
+<div style="padding-top:57.600%;position:relative;"><iframe src="https://gifer.com/embed/YQgT" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+
 - 🔭 I'm currently working on **Telegram Nexus**
 
 - 🌱 I'm currently learning **C#, Kotlin**

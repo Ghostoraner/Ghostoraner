@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghostoraner&label=Profile views&color=0e75b6&style=flat" alt="Ghostoraner" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4995&pause=100&color=00FF00&width=435&lines=Code+is+like+humor;+When+you+have+to+explain+it;it's+bad)](https://git.io/typing-svg)
+
 - 🔭 I'm currently working on **Telegram Nexus**
 
 - 🌱 I'm currently learning **C#, Kotlin**

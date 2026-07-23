@@ -2,10 +2,12 @@
 
 <p align="center">
   <img src="./23.png" width="600" alt="GHOSTRUNNER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4995&pause=100&color=00FF00&width=435&lines=Code+is+like+humor;+When+you+have+to+explain+it;it's+bad." alt="Typing SVG" />
 </p>
 
 ---
 
+## About me
 - 🔭 I'm currently working on **Telegram Nexus**
 
 - 🌱 I'm currently learning **C#, Kotlin**
@@ -29,7 +31,6 @@
 <p align="center">
   <img src="https://i.gifer.com/YQgT.gif" width="480" alt="animation" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4995&pause=100&color=00FF00&width=435&lines=Code+is+like+humor;+When+you+have+to+explain+it;it's+bad." alt="Typing SVG" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -42,7 +43,27 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostoraner&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+```python
+class GhostRunner:
 
+    def __init__(self):
+        self.alias = "Ghostoraner"
+        self.os = "Arch Linux"
+        self.ide = "PyCharm"
+        self.stack = ["Python", "Bash", "Git", "Docker"]
+        self.status = "System initialized..."
+
+    def execute(self):
+        print(f"[{self.alias}] Running in the Cybervoid...")
+        print(f"Environment: {self.os} + {self.ide}")
+
+
+me = GhostRunner()
+me.execute()
+```
+
+## Thanks for your attention, see you
+
+<p align="center">
+  <img src="https://i.gifer.com/xK.gif" width="480" alt="animation" />
+</p>

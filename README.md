@@ -7,7 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4995&pause=100&color=00FF00&width=435&lines=Code+is+like+humor;+When+you+have+to+explain+it;it's+bad.)](https://git.io/typing-svg)
 
 ---
-<iframe src="https://gifer.com/embed/YQgT" width=480 height=276.480 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+<p align="center">
+  <img src="https://i.gifer.com/YQgT.gif" width="480" alt="animation" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4995&pause=100&color=00FF00&width=435&lines=Code+is+like+humor;+When+you+have+to+explain+it;it's+bad." alt="Typing SVG" />
+</p>
 
 - 🔭 I'm currently working on **Telegram Nexus**
 

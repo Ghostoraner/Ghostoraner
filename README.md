@@ -2,8 +2,7 @@
 
 <div align="center">
   <svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
-    
-    <!-- Визначення ефекту світіння (Neon Glow) -->
+     <!-- Визначення ефекту світіння (Neon Glow) -->
     <defs>
       <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
         <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
@@ -13,11 +12,9 @@
         </feMerge>
       </filter>
     </defs>
-
-    <!-- Фоновий прямокутник (темний, щоб підкреслити неон) -->
+ <!-- Фоновий прямокутник (темний, щоб підкреслити неон) -->
     <rect width="500" height="150" fill="#0d1117"/>
-
-    <!-- АНІМОВАНИЙ ТЕКСТ -->
+ <!-- АНІМОВАНИЙ ТЕКСТ -->
     <text x="50%" y="50%" 
           font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
           font-size="60" 
@@ -27,26 +24,22 @@
           fill="#00ffcc" 
           filter="url(#glow)"
           opacity="0">
-      
-      <!-- ВАШ НІКНЕЙМ (тут буде ваш текст) -->
+       <!-- ВАШ НІКНЕЙМ (тут буде ваш текст) -->
       GHOSTRUNNER
-      
-      <!-- Анімація появи (Fade In + Збільшення прозорості) -->
+       <!-- Анімація появи (Fade In + Збільшення прозорості) -->
       <animate attributeName="opacity" 
                values="0;1" 
                dur="1.5s" 
                fill="freeze" 
                begin="0s"/>
-               
-      <!-- Анімація легкого пульсування (опціонально) -->
+                 <!-- Анімація легкого пульсування (опціонально) -->
       <animate attributeName="fill" 
                values="#00ffcc;#00ccff;#00ffcc" 
                dur="3s" 
                repeatCount="indefinite"
                begin="1.5s"/>
     </text>
-
-    <!-- Додатковий рядок тексту (маленький) -->
+  <!-- Додатковий рядок тексту (маленький) -->
     <text x="50%" y="80%" 
           font-family="monospace" 
           font-size="16" 

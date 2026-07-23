@@ -1,4 +1,4 @@
-# Hi 👋, I'm GhostRunner
+# Hi 👋, I'm GhostRunner  
 
 ### A passionate Full stack developer
 
@@ -28,6 +28,7 @@
 <p align="left">
 <a href="https://github.com/Ghostoraner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ghostoraner" height="30" width="40" /></a>
 <a href="https://dev.to/@ghostoraner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ghostoraner" height="30" width="40" /></a>
+<a href="https://t.me/imperviou" target="blank"><img align="center" src="./1.png" alt="imperviou" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

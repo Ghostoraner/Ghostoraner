@@ -1,8 +1,8 @@
-# Hi 👋, I'm GhostRunner  
 
+<p align="center">
+  <img src="./23.png" width="600" alt="GHOSTRUNNER" />
+</p>
 
-
-### A passionate Full stack developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghostoraner&label=Profile views&color=0e75b6&style=flat" alt="Ghostoraner" /> </p>
 

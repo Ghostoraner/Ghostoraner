@@ -20,11 +20,10 @@
 
 - 📫 How to reach me **reinsss21@proton.me or reinsss21@gmail.com**
 
-- ⚡ Fun fact **I worked with Secret297-CODER-SOURCE **
+- ⚡ Fun fact **I worked with Secret297-CODER-SOURCE**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Ghostoraner](https://github.com/Ghostoraner)**
 
-- 📄 Know about my experiences **[https://github.com/Ghostoraner/CV](https://github.com/Ghostoraner/CV)**
 
 ---
 

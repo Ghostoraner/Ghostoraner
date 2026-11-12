@@ -8,7 +8,7 @@
 ---
 
 ## About me
-- 🔭 I'm currently working on **LanChat**
+- 🔭 I'm currently working on **C.O.N.D.R**
 
 - 🌱 I'm currently learning **C#, Kotlin**
 
